@@ -31,3 +31,7 @@ Vercel serves the generated `dist` directory.
 ## Credits
 
 Built by [Tech Buzzs](https://github.com/techbuzzs). 
+
+## Live website
+
+[Open palette-lab](https://palette-lab-bay.vercel.app)
